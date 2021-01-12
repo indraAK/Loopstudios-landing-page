@@ -252,6 +252,10 @@ header.visible {
          url(./images/mobile/image-hero.jpg);
    }
 
+   .intro-text {
+      margin-top: 5rem;
+   }
+
    .intro-text h1 {
       font-size: 5rem;
    }
